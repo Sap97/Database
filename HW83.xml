@@ -1,0 +1,37 @@
+<rating>
+	<company>
+			<name>OKKO</name>
+			<age>22</age>
+			<contry>Ukraine</contry>
+			<headquarters>Lviv</headquarters>
+			<gas stations >415</gas stations >
+	</company>
+	<company>
+			<name>Lukoil</name>
+			<age>30</age>
+			<contry>Russia</contry>
+			<headquarters><Moscow</headquarters>
+			<gas stations >5200</gas stations >
+	</company>
+	<company>
+			<name>Shell</name>
+			<age>104</age>
+			<contry>Great Britone</contry>
+			<headquarters>London</headquarters>
+			<gas stations >1532</gas stations >
+	</company>
+	<company>
+			<name>Socar</name>
+			<age>29</age>
+			<contry>Azerbaijan</contry>
+			<headquarters>Baku</headquarters>
+			<gas stations >1000</gas stations >
+	</company>
+	<company>
+			<name>WOG</name>
+			<age>21</age>
+			<contry>Ukraine</contry>
+			<headquarters>Lutsk</headquarters>
+			<gas stations >410</gas stations >
+	</company>
+</rating>

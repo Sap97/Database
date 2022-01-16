@@ -1,0 +1,44 @@
+name, age, contry, headquarters, gas stations 
+OKKO, 22, Ukraine, Lviv, 415
+Lukoil, 30, Russia, Moscow, 5200
+Shell, 104, Great Britone, London, 1532
+Socar, 29, Azerbaijan, Baku, 1000
+WOG, 21, Ukraine, Lutsk, 410  
+
+{"company":[
+	{
+		"name": "OKKO",
+		"age": 22,
+		"contry": "Ukraine",
+		"headquarters": "Lviv",
+		"gas stations": 415
+	},
+	{
+		"name": "Lukoil",
+		"age": 30,
+		"contry": "Russia",
+		"headquarters": "Moscow",
+		"gas stations": 5200
+	},
+	{
+		"name": "Shell",
+		"age": 104,
+		"contry": "Great Britone",
+		"headquarters": "London",
+		"gas stations": 1532
+	},
+	{
+		"name": "Socar",
+		"age": 29,
+		"contry": "Azerbaijan",
+		"headquarters": "Baku",
+		"gas stations": 1000
+	},{
+		"name": "WOG",
+		"age": 21,
+		"contry": "Ukraine",
+		"headquarters": "Lutsk",
+		"gas stations": 410
+	},
+]}
+
